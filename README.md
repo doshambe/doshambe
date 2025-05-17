@@ -1,5 +1,8 @@
 ## Hi there 👋
+name: abdul rauf
+age : 39
 
+purpose of this account is trial and error
 <!--
 **doshambe/doshambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
